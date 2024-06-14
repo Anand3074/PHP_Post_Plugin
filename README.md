@@ -14,7 +14,7 @@ This plugin seamlessly fetches posts from a designated subdomain and displays th
 ## Installation
 
 ### Method 1: Using FileZilla (SFTP) (Recommended):
-
+![FileZilla Layout](https://itsfoss.com/content/images/wordpress/2022/01/02_filezilla_layout.webp)
 1. **Establish Connection:** Set up an SFTP connection to your WordPress site's hosting server using FileZilla or a similar FTP client.
 2. **Navigate to Directory:** Locate and access the `/wp-content/plugins/` directory within your server's file structure.
 3. **Upload ZIP File:** Create File and edit using your editor and paste the content of file Post_fetch_Plugin.php to that file and change the subdomain sites to your own.
