@@ -1,0 +1,44 @@
+/* Style the container element */
+.subdomain-posts {
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+/* Style the article elements */
+.subdomain-posts article {
+  margin-bottom: 20px;
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+/* Style the heading */
+.subdomain-posts article header {
+  margin-bottom: 10px;
+}
+
+.subdomain-posts article h2 {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+/* Style the image */
+.subdomain-posts article img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+/* Style the content */
+.subdomain-posts article div {
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+/* Style the footer */
+.subdomain-posts article footer {
+  font-size: 0.8em;
+  color: #999;
+  margin-top: 10px;
+}
